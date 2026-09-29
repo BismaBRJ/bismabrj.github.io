@@ -1,0 +1,20 @@
+---
+title: "Teaching & Tutoring"
+---
+
+::: {.list-table aligns="c,c,c"}
+**At a glance**
+
+- - 4+ years
+  - 400+ students
+  - Pure/theoretical and applied subjects
+
+- - University teaching + freelance tutoring
+  - Through several years of undergraduate mathematics
+  - Calculus/analysis, linear/abstract algebra, programming, numerical methods, data
+:::
+
+# Gallery & samples
+
+Coming soon!
+

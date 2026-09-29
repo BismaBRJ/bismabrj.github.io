@@ -2,12 +2,13 @@ project:
   type: website
 
 website:
-  title: "BismaBRJ's Portfolio Website (Bisma Rohpanca Joyosumarto)"
+  title: "BismaBRJ (Bisma Rohpanca Joyosumarto)"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - data_software/data_software.qmd
+      - teaching_tutoring/teaching_tutoring.qmd
 
 format:
   html:
