@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "teaching_tutoring/teaching_tutoring.html",
+    "href": "teaching_tutoring/teaching_tutoring.html",
+    "title": "Teaching & Tutoring",
     "section": "",
-    "text": "About this site"
+    "text": "At a glance\n\n\n4+ years\n400+ students\nPure/theoretical and applied subjects\n\n\n\n\nUniversity teaching + freelance tutoring\nThrough several years of undergraduate mathematics\nCalculus/analysis, linear/abstract algebra, programming, numerical methods, data\n\n\n\n\nGallery & samples\nComing soon!"
+  },
+  {
+    "objectID": "data_software/data_software.html",
+    "href": "data_software/data_software.html",
+    "title": "Data & Software",
+    "section": "",
+    "text": "Data & software projects will be listed here soon!"
   },
   {
     "objectID": "index.html",
