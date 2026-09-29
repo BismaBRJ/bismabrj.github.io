@@ -5,3 +5,6 @@
 # source: https://quarto.org/docs/publishing/github-pages.html
 /.quarto/
 /_site/
+
+# Seems to be automatically generated upon quarto publish
+**/*.quarto_ipynb
