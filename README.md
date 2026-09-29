@@ -1,4 +1,4 @@
-# bismabrj.github.io --- BismaBRJ's Portfolio Website (Bisma Rohpanca Joyosumarto)
+# bismabrj.github.io: BismaBRJ's Portfolio Website (Bisma Rohpanca Joyosumarto)
 
 Copyright (c) 2026 Bisma Rohpanca Joyosumarto - BismaBRJ (<https://www.github.com/BismaBRJ/>). All rights reserved.
 
