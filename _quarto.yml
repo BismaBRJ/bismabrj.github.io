@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "BismaBRJ's Portfolio Website (Bisma Rohpanca Joyosumarto)"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
