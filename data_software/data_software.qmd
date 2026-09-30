@@ -4,4 +4,6 @@ title: "Data & Software"
 
 [Back to Home](../index.qmd)
 
-Data & software projects will be listed here soon!
+Check out my GitHub profile: <https://github.com/BismaBRJ/>
+
+Selected data & software projects will be listed here soon!
