@@ -7,6 +7,13 @@ website:
     left:
       - data_software/data_software.qmd
       - teaching_tutoring/teaching_tutoring.qmd
+    right:
+      - icon: github
+        href: https://www.github.com/BismaBRJ
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/bisma-rohpanca-joyosumarto
+        aria-label: LinkedIn
 
 format:
   html:
