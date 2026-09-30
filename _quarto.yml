@@ -2,11 +2,9 @@ project:
   type: website
 
 website:
-  title: "BismaBRJ (Bisma Rohpanca Joyosumarto)"
+  title: "Bisma Rohpanca Joyosumarto (BismaBRJ)"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - data_software/data_software.qmd
       - teaching_tutoring/teaching_tutoring.qmd
 
