@@ -9,7 +9,7 @@ A recent Bachelor in mathematics from the University of Indonesia, interested in
   - Teaching & Tutoring
 
 - - Computers are supposed to help us; I analyze data and build utilities with them, putting my STEM background to use.
-  - Humans developed mathematics; thus it must make sense if communicated properly. This belief fuels my passion for teaching throughout my undergraduate years and beyond.
+  - Humans developed mathematics and technology; thus they must make sense if communicated properly. This belief fuels my passion for teaching throughout my undergraduate years and beyond.
 
 - - [Explore GitHub Projects](data_software/data_software.qmd)
   - [View Teaching Portfolio](teaching_tutoring/teaching_tutoring.qmd)
