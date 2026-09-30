@@ -16,5 +16,63 @@ title: "Teaching & Tutoring"
 
 # Gallery & samples
 
-Coming soon!
+::: {.panel-tabset}
+
+## Calculus, linear algebra
+
+- Solids of revolution: slice, approximate, integrate (in Indonesian)
+
+  [slice_approximate_integrate_indonesian.pdf](gallery_samples/calculus/slice_approximate_integrate_indonesian.pdf)
+
+  {{< video gallery_samples/calculus/slice_approximate_integrate_example.mp4 >}}
+
+- Basic topology on $\mathbb{R}^n$: neighborhoods, interior points, open sets, continuity (in Indonesian)
+
+  [Rn_topology_functions_indonesian.pdf](gallery_samples/calculus/Rn_topology_functions_indonesian)
+
+  ![Rn_topology_functions_indonesian_thumbnail.jpg](gallery_samples/calculus/Rn_topology_functions_indonesian_thumbnail.jpg)
+
+- Intro to eigenvalues (in Indonesian)
+
+  [eigenvalues_intro_indonesian.pdf](gallery_samples/linear_algebra/eigenvalues_intro_indonesian.pdf)
+
+  ![eigenvalues_intro_indonesian_thumbnail.jpg](gallery_samples/linear_algebra/eigenvalues_intro_indonesian_thumbnail.jpg)
+
+- Wolfram Mathematica: solving a definite integral (in Indonesian)
+
+  {{< video gallery_samples/calculus/mathematica_definite_integral_indonesian.mp4 >}}
+
+- Wolfram Mathematica: solving a linear system (in Indonesian)
+
+  {{< video gallery_samples/linear_algebra/mathematica_linear_system_indonesian.mp4 >}}
+
+## Abstract algebra, real analysis
+
+- The remainder group $\mathbb{Z}_n$ (in English)
+
+  [remainder_group_english_2026.pdf](gallery_samples/abstract_algebra/remainder_group_english_2026.pdf)
+
+  {{< video gallery_samples/abstract_algebra/remainder_group_rationale.mp4 >}}
+
+- Introduction to convergent sequences in $\mathbb{R}$ (in Indonesian)
+
+  [convergent_sequence_intro_indonesian.pdf](gallery_samples/real_analysis/convergent_sequence_intro_indonesian.pdf)
+
+  {{< video gallery_samples/real_analysis/convergent_sequence_intro.mp4 >}}
+
+- Introduction to the definition of the limit (in Indonesian)
+
+  [limit_definition_intro_indonesian.pdf](gallery_samples/real_analysis/limit_definition_intro_indonesian.pdf)
+
+  ![limit_definition_intro_indonesian_thumbnail.jpg](gallery_samples/real_analysis/limit_definition_intro_indonesian_thumbnail.jpg)
+
+## Programming, numerical methods
+
+Samples to be published soon!
+
+## Data structures, data science
+
+Samples to be published soon!
+
+:::
 
