@@ -5,8 +5,8 @@ website:
   title: "Bisma Rohpanca Joyosumarto (BismaBRJ)"
   navbar:
     left:
-      - data_software/data_software.qmd
-      - teaching_tutoring/teaching_tutoring.qmd
+      - data_software.qmd
+      - teaching_tutoring.qmd
     right:
       - icon: github
         href: https://www.github.com/BismaBRJ

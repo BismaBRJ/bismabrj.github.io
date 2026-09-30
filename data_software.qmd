@@ -2,7 +2,7 @@
 title: "Data & Software"
 ---
 
-[Back to Home](../index.qmd)
+[Back to Home](index.qmd)
 
 Check out my GitHub profile: <https://github.com/BismaBRJ/>
 
