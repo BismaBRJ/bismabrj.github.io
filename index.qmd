@@ -2,7 +2,7 @@
 title: "Bisma Rohpanca Joyosumarto (BismaBRJ)"
 ---
 
-A recent Bachelor in mathematics from the University of Indonesia, interested in many areas of mathematics, both pure and applied. Also passionate about teaching as well as programming. Can dabble in many related areas, such as data-heavy roles and economics, especially where mathematical modeling plays an important role.
+A recent Bachelor in mathematics from the University of Indonesia (<https://www.ui.ac.id/>), interested in many areas of mathematics, both pure and applied. Also passionate about teaching as well as programming. Can dabble in many related areas, such as data-heavy roles and economics, especially where mathematical modeling plays an important role.
 
 ::: {.list-table aligns="c,c"}
 - - Data & Software
