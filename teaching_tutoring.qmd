@@ -28,11 +28,9 @@ title: "Teaching & Tutoring"
 
   {{< video gallery_samples/calculus/slice_approximate_integrate_example.mp4 >}}
 
-- Basic topology on $\mathbb{R}^n$: neighborhoods, interior points, open sets, continuity, in Indonesian
+- Wolfram Mathematica: computing a definite integral, in Indonesian
 
-  [Rn_topology_functions_indonesian.pdf](gallery_samples/calculus/Rn_topology_functions_indonesian)
-
-  ![Rn_topology_functions_indonesian_thumbnail.jpg](gallery_samples/calculus/Rn_topology_functions_indonesian_thumbnail.jpg)
+  {{< video gallery_samples/calculus/mathematica_definite_integral_indonesian.mp4 >}}
 
 - Intro to eigenvalues, in Indonesian
 
@@ -40,13 +38,15 @@ title: "Teaching & Tutoring"
 
   ![eigenvalues_intro_indonesian_thumbnail.jpg](gallery_samples/linear_algebra/eigenvalues_intro_indonesian_thumbnail.jpg)
 
-- Wolfram Mathematica: solving a definite integral, in Indonesian
-
-  {{< video gallery_samples/calculus/mathematica_definite_integral_indonesian.mp4 >}}
-
 - Wolfram Mathematica: solving a linear system, in Indonesian
 
   {{< video gallery_samples/linear_algebra/mathematica_linear_system_indonesian.mp4 >}}
+
+- Basic topology on $\mathbb{R}^n$: neighborhoods, interior points, open sets, continuity, in Indonesian
+
+  [Rn_topology_functions_indonesian.pdf](gallery_samples/calculus/Rn_topology_functions_indonesian)
+
+  ![Rn_topology_functions_indonesian_thumbnail.jpg](gallery_samples/calculus/Rn_topology_functions_indonesian_thumbnail.jpg)
 
 ## Abstract algebra, real analysis
 
